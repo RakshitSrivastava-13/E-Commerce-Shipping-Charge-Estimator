@@ -510,24 +510,3 @@ The application uses **Global Exception Handling** with `@RestControllerAdvice`:
 
 ---
 
-## 👨‍💻 Developer Information
-
-**Assignment For:** Jumbotail  
-**Contact:** shreya.palit@jumbotail.com
-
----
-
-## 📄 License
-
-This project is developed as part of a technical assessment for Jumbotail.
-
----
-
-## 🙏 Acknowledgments
-
-- Spring Boot team for the excellent framework
-- Jumbotail for the opportunity to work on this assignment
-
----
-
-**Happy Coding! 🚀**
